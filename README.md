@@ -1,5 +1,4 @@
 # CODSOFT
-Sure, here's a description you can add to your README file on GitHub:
 Portfolio Website - VVV
 
 This repository contains the source code for my personal portfolio website, developed as a showcase of my skills, projects, and contact information.

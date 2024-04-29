@@ -1,0 +1,79 @@
+.bgimage {
+    height:100vh;
+    background: url('/home/apiiit123/Downloads/web/portfolio/img/ogirlcode.jpg');
+    background-size:cover;
+    position:relative;
+}
+/* text css above hero image*/
+.hero_title {
+    font-size: 3rem;
+}
+.hero_desc {
+    font-size: 1.5rem;
+}
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+.nav{
+
+    
+    color:aqua}
+ .nav.nav-link {
+        color: aqua;
+    }
+.hero_title{
+        color: aqua; /* Set the color to aqua */
+      }
+      .hero_desc{
+        color: aqua; /* Set the color to aqua */
+      }
+      .imageAboutPage {
+        width: 100%;
+    }
+/* skillsection css */
+.skillText.card {
+    height: 280px;
+    cursor: pointer;
+  }
+.skillIcon {
+    font-size: 36px;
+    text-align: center;
+    width: 100%;
+}
+.card-title {
+    text-align: center;
+}
+.card:hover .servicesIcon {
+    color: #008000;
+}
+.skillText:hover {
+    border: 1px solid #008000;
+}
+.bgimages {
+        height: 100vh;
+        background: url('/home/apiiit123/Downloads/web/portfolio/img/skills.png');
+        background-size: cover;
+        background-position: center;
+        position: relative;
+    
+    
+}
+.projectContent .card {
+    height: 100%; /* Set a fixed height for all project cards */
+}
+
+.projectContent .card-img-top {
+    height: 200px; /* Adjust the height of the project images */
+    object-fit: cover; /* Ensure images maintain their aspect ratio */
+}
+.projectContent .card-img-top {
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: contain; /* Adjust the fit mode as per your preference */
+}
+

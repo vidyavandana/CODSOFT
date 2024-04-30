@@ -56,7 +56,7 @@
 }
 .bgimages {
         height: 100vh;
-        background: url('/home/apiiit123/Downloads/web/portfolio/img/skills.png');
+        background: url('img/skills.png');
         background-size: cover;
         background-position: center;
         position: relative;

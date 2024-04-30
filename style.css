@@ -76,4 +76,7 @@
     max-width: 100%;
     object-fit: contain; /* Adjust the fit mode as per your preference */
 }
+.custom-navbar{
+    background-color:#000;
+}
 
